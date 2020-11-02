@@ -1,22 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd304054-e2c8-4f14-b11d-d876c22a1bd6" name="Default Changelist" comment="" />
+    <list default="true" id="fd304054-e2c8-4f14-b11d-d876c22a1bd6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appStartup.py" beforeDir="false" afterPath="$PROJECT_DIR$/appStartup.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="50646e91-d496-4cb2-83d7-3ef9d85b5adb" />
   <component name="ProjectId" id="1VFNo7IAxS0saaHHZdt14WsKJO6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
   </component>
   <component name="RunManager" selected="Python.appStartup">
@@ -126,18 +155,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -159,85 +177,52 @@
       <workItem from="1578483521178" duration="201000" />
       <workItem from="1579097113869" duration="1226000" />
       <workItem from="1580568182884" duration="149000" />
+      <workItem from="1604343605749" duration="39000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576845367832">
+    <state width="1440" height="850" key="GridCell.Tab.0.bottom" timestamp="1604343643834">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1576845367832" />
-    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1576857732669">
+    <state width="1440" height="850" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604343643834" />
+    <state width="1440" height="850" key="GridCell.Tab.0.center" timestamp="1604343643833">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.900@0.0.1440.900" timestamp="1576857732669" />
-    <state x="450" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576942669284">
+    <state width="1440" height="850" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604343643833" />
+    <state width="1440" height="850" key="GridCell.Tab.0.left" timestamp="1604343643828">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="450" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1576942669284" />
-    <state width="1440" height="856" key="GridCell.Tab.0.bottom" timestamp="1579099710926">
+    <state width="1440" height="850" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604343643828" />
+    <state width="1440" height="850" key="GridCell.Tab.0.right" timestamp="1604343643833">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1440" height="856" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579099710926" />
-    <state width="1440" height="872" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1578382795236" />
-    <state width="1440" height="856" key="GridCell.Tab.0.center" timestamp="1579099710925">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1440" height="856" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579099710925" />
-    <state width="1440" height="872" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1578382795234" />
-    <state width="1440" height="856" key="GridCell.Tab.0.left" timestamp="1579099710923">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1440" height="856" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579099710923" />
-    <state width="1440" height="872" key="GridCell.Tab.0.left/0.0.1440.900@0.23.1440.827" timestamp="1577016624067" />
-    <state width="1440" height="872" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1578382795234" />
-    <state width="1440" height="856" key="GridCell.Tab.0.right" timestamp="1579099710925">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1440" height="856" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579099710925" />
-    <state width="1440" height="872" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1578382795235" />
-    <state width="1398" height="559" key="GridCell.Tab.1.bottom" timestamp="1577984719561">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="559" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577984719561" />
-    <state width="1398" height="559" key="GridCell.Tab.1.center" timestamp="1577984719561">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="559" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1577984719561" />
-    <state width="1398" height="559" key="GridCell.Tab.1.left" timestamp="1577984719560">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="559" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1577984719560" />
-    <state width="1398" height="559" key="GridCell.Tab.1.right" timestamp="1577984719561">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="559" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1577984719561" />
-    <state x="221" y="89" key="SettingsEditor" timestamp="1576852584863">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1576852584863" />
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1578483521320">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1578483521320" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1578382696214">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1578382696214" />
+    <state width="1440" height="850" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604343643833" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Connect4$Unittests_in_test_checkWinAlgo_py.coverage" NAME="Unittests in test_checkWinAlgo.py Coverage Results" MODIFIED="1577980751029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Connect4$Unittests_for_test_checkWinAlgo_Test_test_horizontal_search.coverage" NAME="Unittests for test_checkWinAlgo.Test.test_horizontal_search Coverage Results" MODIFIED="1576856191230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Connect4$Unittests_for_test_checkWinAlgo_Test_test_diagonal_check_LR.coverage" NAME="Unittests for test_checkWinAlgo.Test.test_diagonal_check_LR Coverage Results" MODIFIED="1576933667596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Connect4$Unittests_for_test_checkWinAlgo_Test_test_diagonal_check_RL.coverage" NAME="Unittests for test_checkWinAlgo.Test.test_diagonal_check_RL Coverage Results" MODIFIED="1576935897702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Connect4$Unittests_for_test_AI_TestAI_test_player_is_winning.coverage" NAME="Unittests for test_AI.TestAI.test_player_is_winning Coverage Results" MODIFIED="1577983629738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Connect4$UI.coverage" NAME="UI Coverage Results" MODIFIED="1578382368659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Connect4$test_AI.coverage" NAME="test_AI Coverage Results" MODIFIED="1577983623182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Connect4$domain1.coverage" NAME="domain1 Coverage Results" MODIFIED="1576853264403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Connect4$appStartup.coverage" NAME="appStartup Coverage Results" MODIFIED="1579099499438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Connect4$Unittests_for_test_AI_TestAI_test_player_is_winning.coverage" NAME="Unittests for test_AI.TestAI.test_player_is_winning Coverage Results" MODIFIED="1577983629738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Connect4$appStartup.coverage" NAME="appStartup Coverage Results" MODIFIED="1604343637983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Connect4$Unittests_in_test_checkWinAlgo_py.coverage" NAME="Unittests in test_checkWinAlgo.py Coverage Results" MODIFIED="1577980751029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Connect4$test_checkWinAlgo.coverage" NAME="test_checkWinAlgo Coverage Results" MODIFIED="1576855448733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Connect4$Unittests_for_test_checkWinAlgo_Test_test_diagonal_check_LR.coverage" NAME="Unittests for test_checkWinAlgo.Test.test_diagonal_check_LR Coverage Results" MODIFIED="1576933667596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Connect4$Unittests_for_test_checkWinAlgo_Test_test_horizontal_search.coverage" NAME="Unittests for test_checkWinAlgo.Test.test_horizontal_search Coverage Results" MODIFIED="1576856191230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Connect4$Unittests_for_test_checkWinAlgo_Test_test_diagonal_check_RL.coverage" NAME="Unittests for test_checkWinAlgo.Test.test_diagonal_check_RL Coverage Results" MODIFIED="1576935897702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

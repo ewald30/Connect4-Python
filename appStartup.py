@@ -1,11 +1,5 @@
 from UI import*
 
-window = Tk()
-window.title('Connect4')
-window.geometry('300x300')
-btn = Button(window, text="Click Me")
-btn.grid(column=1, row=0)
-window.mainloop()
 
 def startup():
     b = Board()
