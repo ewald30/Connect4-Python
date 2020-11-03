@@ -1,7 +1,7 @@
 from domain1 import*
 from checkWinAlgo import*
 from AI import*
-from tkinter import*
+
 
 class UI:
     def __init__(self, board, print_board, name1, name2, colors,ai):
